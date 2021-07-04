@@ -106,7 +106,7 @@ public class HelloController {
         // 4. 해당 객체를 리턴
         return hello;
     }
-    // 1. 클래스를 생성하고 getter와 setter만들어줌 (윈도우 단축키 컨트롤+인서트)
+    // 1. 클래스를 생성하고 getter와 setter만들어줌 (윈도우 단축키 알트+인서트)
     static class Hello {
         private String name;
 
